@@ -1,0 +1,2 @@
+# Title-Trader-Performance-vs-Market-Sentiment-Analysis
+.Trader Performance vs Market Sentiment Analysis using Hyperliquid historical trading data and the Bitcoin Fear &amp; Greed Index. This project explores the relationship between market sentiment and trader performance through data cleaning, exploratory data analysis, visualization, and performance metrics such as PnL, win rate, and trading volume.
